@@ -27,6 +27,9 @@ figcaption {
   margin-right: auto;
 }
 
+#details {
+  display: block;
+}
 #details dev {
   float: left;
 }
