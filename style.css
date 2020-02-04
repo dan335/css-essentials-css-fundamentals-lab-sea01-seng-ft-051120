@@ -29,7 +29,7 @@ figcaption {
 
 #details {
   display: block;
-  background-color: ref;
+  background-color: red;
 }
 
 #details div {
